@@ -1,2 +1,1 @@
-# 0main_openSAP_repo
-Main repository for Git Web IDE demos..............
+Sorry I had to delete everything! I hope you do not mind!
